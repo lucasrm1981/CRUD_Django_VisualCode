@@ -41,6 +41,9 @@ TIME_ZONE = 'America/Sao_Paulo' # Timezone Brasil<br/>
 
 <h4>Tabela do Banco de Dados</h4>
 core/models.py
+<h4>Link para definições e modelos de tabela</h4>
+<a href="https://docs.djangoproject.com/en/5.0/ref/forms/fields/">Link Django Fields</a>
+
 
 <h4>Arquivo de rotas do aplicativo core</h4>
 core/urls.py
